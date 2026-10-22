@@ -3,7 +3,6 @@
 CineBook est une interface de réservation de cinéma conçue pour pratiquer JavaScript ES6+ et la manipulation du DOM. L’interface est prête, mais ses fonctionnalités dynamiques restent volontairement à développer.
 
 ## Ce qui est fourni
-
 - Une interface HTML5 claire, moderne et responsive, mise en forme uniquement avec les classes utilitaires de Tailwind CSS via CDN.
 - Quatre films fictifs et leurs séances dans `js/data.js`.
 - Quatre affiches originales stockées localement dans `assets/images/`.
